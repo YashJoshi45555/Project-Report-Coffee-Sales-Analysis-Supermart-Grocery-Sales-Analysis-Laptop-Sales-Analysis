@@ -1,0 +1,2 @@
+# Project-Report-Coffee-Sales-Analysis-Supermart-Grocery-Sales-Analysis-Laptop-Sales-Analysis
+This project presents a comprehensive analysis of sales data across three different domains: coffee sales, laptop price, and Supermart sales. The main objective is to leverage data analytics techniques to extract meaningful insights that can help businesses optimize pricing strategies, improve demand forecasting, and enhance customer satisfaction.
